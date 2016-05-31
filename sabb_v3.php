@@ -3,7 +3,7 @@
 /**
  * 
  * SAAB V3 WRAPPER FOR CISCO SPARK API V1
- * @author Ryan Huff <ryan@sparkresearchlabs.com>
+ * @author Ryan Huff <ryan@ryanthomashuff.com>
  * @version 3.0.1
  * 
  */
