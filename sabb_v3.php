@@ -431,7 +431,7 @@ class sabbV3
         }
 
         $result = $this->jDecoder(
-                $this->messagesurl,
+                $this->messagesUrl,
                 $this->postPayload($data)
         );
         
